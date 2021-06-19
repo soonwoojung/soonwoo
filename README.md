@@ -45,10 +45,10 @@ Dacon 경진대회 참가 리스트
 
   61 등 /418 (상위 15%)
 
-- 학교 프로젝트
+학교 프로젝트
 
-  서울시 공공데이터 활용, 과거 4분기 데이터로 다음분기 (업종별)폐업률 예측 (Xgboost)
+  - 서울시 공공데이터 활용, 과거 4분기 데이터로 다음분기 (업종별)폐업률 예측 (Xgboost)
   
-  블랙박스 영상 고화질 변환 (DCSCN (CNN) , Super resolution _
+  - 블랙박스 영상 고화질 변환 (DCSCN (CNN) , Super resolution _
   
-  패션 이미지에서 패션 속성 인식 및 유사 패션 추천 ( Efficient Net, AutoEncoder )
+  - 패션 이미지에서 패션 속성 인식 및 유사 패션 추천 ( Efficient Net, AutoEncoder )
