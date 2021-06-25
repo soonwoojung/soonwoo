@@ -9,7 +9,8 @@ Dacon 경진대회 참가 리스트
   시계열 | SMAPE | 한국에너지공단 | 전력
 
 
-  **8등/306** (상위 2.6%)
+  **9등/306** (상위 2.6%)
+  https://dacon.io/competitions/official/235736/codeshare/2870?page=1&dtype=recent
 
 완료된 대회
 
